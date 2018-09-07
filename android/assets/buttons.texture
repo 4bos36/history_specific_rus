@@ -1,0 +1,158 @@
+btn.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Logo
+  rotate: false
+  xy: 704, 0
+  size: 960, 640
+  orig: 960, 640
+  offset: 0, 0
+  index: -1
+Start
+  rotate: false
+  xy: 0, 0
+  size: 704, 192
+  orig: 704, 192
+  offset: 0, 0
+  index: -1
+Exit
+  rotate: false
+  xy: 0, 192
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Achievements
+  rotate: false
+  xy: 192, 192
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Repeat
+  rotate: false
+  xy: 384, 192
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+MusOn
+  rotate: false
+  xy: 0, 384
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+MusOff
+  rotate: false
+  xy: 192, 384
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Stat
+  rotate: false
+  xy: 384, 384
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Home
+  rotate: false
+  xy: 0, 576
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+About
+  rotate: false
+  xy: 192, 576
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Help
+  rotate: false
+  xy: 384, 576
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Rate
+  rotate: false
+  xy: 0, 768
+  size: 320, 192
+  orig: 320, 192
+  offset: 0, 0
+  index: -1
+Flag
+  rotate: false
+  xy: 320, 768
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Btn
+  rotate: false
+  xy: 576, 192
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+NONE
+  rotate: false
+  xy: 704, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Next
+  rotate: false
+  xy: 512, 768
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Feedback
+  rotate: false
+  xy: 512, 896
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+Facebook
+  rotate: false
+  xy: 1664, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Twitter
+  rotate: false
+  xy: 1664, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GooglePlus
+  rotate: false
+  xy: 1664, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+VK
+  rotate: false
+  xy: 1664, 896
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DownloadApp
+  rotate: false
+  xy: 1792, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
